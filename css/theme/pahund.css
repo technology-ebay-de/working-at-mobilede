@@ -281,6 +281,12 @@ body {
     padding: 15px;
 }
 
+.reveal .bottom-right {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
 /*********************************************
  * LINKS
  *********************************************/
