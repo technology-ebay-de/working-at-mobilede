@@ -2,6 +2,8 @@
 
 Presentation for <a href="http://devugees-education.org">Devugees</a>, October 2017
 
+### 👉 [View the presentation online here](https://pahund.github.io/devugees-prez-oct2017)
+
 ## License
 
 [MIT licensed](LICENSE)
