@@ -287,6 +287,11 @@ body {
     justify-content: flex-end;
 }
 
+.reveal figcaption {
+    font-size: 0.5em;
+    margin-top: -20px;
+}
+
 /*********************************************
  * LINKS
  *********************************************/
