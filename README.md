@@ -1,6 +1,6 @@
 # Working at mobile.de
 
-Presentation for <a href="http://devugees-education.org">Devugees</a>, October 2017
+Presentation for <a href="http://devugees-education.org">Devugees</a>
 
 ### 👉 [View the presentation online here](https://pahund.github.io/devugees-prez-oct2017)
 
