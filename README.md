@@ -2,7 +2,7 @@
 
 Presentation for <a href="http://devugees-education.org">Devugees</a>
 
-### 👉 [View the presentation online here](https://pahund.github.io/devugees-prez-oct2017)
+### 👉 [View the presentation online here](https://technology-ebay-de.github.io/working-at-mobilede)
 
 ## License
 
